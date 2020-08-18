@@ -4,8 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:italooliveira@copin.ufcg.edu.br)](mailto:italooliveira@copin.ufcg.edu.br)
 
 
-
-Here are some ideas to get you started:
+## I'm a PhD student 💻 in Brazil 🌎
 
 - 🔭 I’m currently working on Music Recommmender Systems in my PhD, and NLP developer as Dell EMC pattern.
 - 🌱 I’m currently learning a lot about data science and machine/deep learning.
