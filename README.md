@@ -1,4 +1,4 @@
-### Hi there! I´m Ítalo 👋
+### Hi there! I´m Ítalo de Pontes Oliveira 👋
 
 How to Reach me:
 
