@@ -22,6 +22,9 @@ How to Reach me:
 [Entrevista Jornalística](https://www.youtube.com/watch?v=Wz8hzHFXq7U)
 [Ramo Revelação](https://www.youtube.com/watch?v=wwuMJobZfN4)
 
+[Patente](https://drive.google.com/file/d/1hgIszxpRKthN99LEtSK9V5koOICh7h6s/view)
+
+[E-book (in portuguese)](https://docs.google.com/document/d/1Z9pV2-MsLFiTMeEFIQUVl3ueHD_z3FeAqkSFU-hngjw)
 <!--
 **italoPontes/italoPontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
