@@ -21,7 +21,9 @@ How to Reach me:
 [Novembro/2021: A Ciência de Dados precisa de gestão?](https://open.spotify.com/episode/4wOf2kkhvPpI2ponjogyAW)
 
 [Hackfest 2017](https://g1.globo.com/pb/paraiba/noticia/dez-equipes-se-classificam-para-segunda-etapa-do-hackfest-contra-corrupcao-na-pb.ghtml)
+
 [Entrevista Jornalística](https://www.youtube.com/watch?v=Wz8hzHFXq7U)
+
 [Ramo Revelação](https://www.youtube.com/watch?v=wwuMJobZfN4)
 
 [Patente](https://drive.google.com/file/d/1hgIszxpRKthN99LEtSK9V5koOICh7h6s/view)
