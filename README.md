@@ -2,9 +2,8 @@
 
 How to Reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/italo-de-pontes/)](https://www.linkedin.com/in/italo-de-pontes/)
-(https://twitter.com/italodepontes)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:italooliveira@copin.ufcg.edu.br)](mailto:italooliveira@copin.ufcg.edu.br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/italo-de-pontes/)]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:italodepontesoliveira93@gmail.com)](mailto:italodepontesoliveira93@gmail.com)
 
 
 ## I'm a Master Degree on Computer Vision 💻 in Brazil 🌎
