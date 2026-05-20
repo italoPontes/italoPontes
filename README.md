@@ -15,7 +15,9 @@ How to Reach me:
 
 # Podcasts
 [Abril/2022: A União da Ciência de Dados, Ciência da Computação e Experiência do Usuário](https://open.spotify.com/episode/6KI2fvHYMuQJLztUsMiqVn)
+
 [Dezembro/2021: Tecnologia e Ciência de Dados](https://open.spotify.com/episode/48cbiyNzuJLht9sFEfyOtT)
+
 [Novembro/2021: A Ciência de Dados precisa de gestão?](https://open.spotify.com/episode/4wOf2kkhvPpI2ponjogyAW)
 
 [Hackfest 2017](https://g1.globo.com/pb/paraiba/noticia/dez-equipes-se-classificam-para-segunda-etapa-do-hackfest-contra-corrupcao-na-pb.ghtml)
