@@ -33,19 +33,33 @@ I have participated in podcasts, interviews, and produce AI-related technical co
 
 ## Senior Data Scientist — Certta (2024 – 2025)
 
-* Performed large-scale exploratory data analysis and statistical correlation studies on transactional datasets to design **The Smart-Monitor**, an intelligent fraud prevention platform focused on device fingerprinting, behavioral analytics, and device-level risk signals.
-* Reduced manual review SLA through more accurate prioritization and automated risk enrichment, improving operational efficiency and strengthening product trust, safety, and market sophistication.
-* Developed behavioral and recurrence-detection strategies capable of identifying systematic attackers across multiple transactions and devices, increasing recall by 13% while reducing false positive rates by 9%.
+* Performed large-scale exploratory data analysis and statistical correlation studies on transactional datasets
+to design **The Smart-Monitor**, an intelligent fraud prevention platform focused on **device fingerprinting**,
+behavioral analytics, and device-level risk signals.
+* **Reduced manual review SLA** through more accurate prioritization and automated risk enrichment, **improving
+operational efficiency** and **strengthening product trust, safety, and market sophistication**.
+* Developed behavioral and recurrence-detection strategies capable of identifying systematic attackers across
+multiple transactions and devices, **increasing recall by 13%** while **reducing false positive rates
+by %9**.
 
 ---
 
 ## Lead Data Scientist — Fabwork (2021 – 2024)
 
-* Led end-to-end AI and Data Science projects following the CRISP-DM methodology, conducting pre-sales technical discussions, stakeholder alignment, solution architecture, deployment, and technical reporting for enterprise clients.
-* Delivered Machine Learning and Analytics solutions for companies including Heineken, Gerdau, Leroy Merlin, B3, and the Brazilian Ministry of Education.
-* Developed regression models for Heineken to predict the optimal beer fermentation point in industrial tanks, reducing unnecessary laboratory quality tests and optimizing tank retention time for more efficient production reuse.
-* Developed predictive models for Gerdau to estimate the calorific efficiency of coke generated from different charcoal blend compositions, supporting energy optimization and reducing operational composition costs in industrial processes.
-* Built anomaly detection and recommendation systems for Leroy Merlin to identify inconsistent SAP enterprise records and suggest corrected values for affected fields, reducing operational inconsistencies and customer-related issues.
+* Led end-to-end AI and Data Science projects following the **CRISP-DM methodology**, conducting pre-sales
+technical discussions, stakeholder alignment, solution architecture, deployment, and technical reporting
+for enterprise clients.
+* Delivered Machine Learning and Analytics solutions for companies including **Heineken, Gerdau, Leroy
+Merlin, B3**, and the **Brazilian Ministry of Education**.
+* Developed regression models for **Heineken** to predict the optimal beer fermentation point in industrial
+tanks, reducing unnecessary laboratory quality tests and **optimizing tank retention time** for **more efficient
+production** reuse.
+* Developed predictive models for **Gerdau** to estimate the calorific efficiency of coke generated from different
+charcoal blend compositions, supporting **energy optimization** and **reducing operational composition
+costs** in industrial processes.
+* Built **anomaly detection** and **recommendation systems** for **Leroy Merlin** to identify inconsistent SAP
+enterprise records and suggest corrected values for affected fields, **reducing operational inconsistencies**
+and **customer-related issues**.
 
 ---
 
