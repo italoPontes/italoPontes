@@ -149,16 +149,15 @@ Federal Institute of Education, Science and Technology of Paraíba (IFPB)
 images.
 * [steganography.streamlit.app](steganography.streamlit.app)
 
+### Technologies
+
+Python, Streamlit, OpenCV, NumPy
+
+
 ## Financial Fraud Detection
 * Developed a Machine Learning pipeline for fraudulent financial transaction detection, achieving a Top 70
 (<3.5%) ranking among more than 2,000 submissions in a Zindi Challenge competition.
 * [github.com/fernandojunior/financial-fraud-detection](github.com/fernandojunior/financial-fraud-detection)
-
-## Financial Fraud Detection
-
-* Developed a Machine Learning pipeline for financial fraud detection, ranking among the Top 70 solutions out of more than 2,000 submissions in a Zindi Challenge competition.
-* Worked with highly imbalanced financial datasets and anomaly detection approaches.
-* Built modular and reproducible experimentation pipelines for fraud prediction workflows.
 
 ### Technologies
 
@@ -166,46 +165,30 @@ Python, Scikit-Learn, PySpark, CatBoost, Pandas, PyOD
 
 ---
 
-## Image Steganography Platform
+# 📚 Publications 
 
-* Developed a web-based steganography platform for hiding and extracting secret messages inside digital images.
-* Built an interactive user interface using Streamlit for real-time experimentation.
-* Applied concepts from Computer Vision, image encoding, and information security.
+* **Video Audience Analysis using Bayesian Networks and Face Demographics**
+Conference on Graphics, Patterns and Images (SIBGRAPI - 2019)
 
-### Technologies
+* **A data augmentation methodology to improve age estimation using convolutional neural networks**
+Conference on Graphics, Patterns and Images (SIBGRAPI - 2016)
 
-Python, Streamlit, OpenCV, NumPy
+📎 Full publication list available on [https://scholar.google.com/citations?user=3R5wdZIAAAAJ](https://scholar.google.com/citations?user=3R5wdZIAAAAJ).
 
 ---
 
-# 📚 Publications & Research
+# Patents
 
-* IEEE Latin America Transactions
-* SIBGRAPI
-* IEEE SSIAI
-* Journal of Mobile Multimedia
-* Computer Vision & Deep Learning research publications
-* Patent registered at INPI (SQUALES)
+* **Software Patent – SQUALES**
+Registration Number: BR 51 2014 000292-6.
 
-📎 Full publication list available on (Google Scholar)[https://scholar.google.com/citations?user=3R5wdZIAAAAJ].
+Available at: [drive.google.com/file/d/1hgIszxpRKthN99LEtSK9V5koOICh7h6s](drive.google.com/file/d/1hgIszxpRKthN99LEtSK9V5koOICh7h6s)
 
 ---
 
 # ✍️ Technical Writing
 
-I write technical articles about:
-
-* Artificial Intelligence
-* Machine Learning
-* Fraud Detection
-* NLP
-* Recommendation Systems
-* LGPD & Data Privacy
-* Computer Vision
-
-### Platforms
-
-* Substack
+* Substack: [https://substack.com/@italodepontes](https://substack.com/@italodepontes)
 
 ---
 
