@@ -112,15 +112,18 @@ complexity** from **exponential**-like growth behavior to a **linear**.
 # 🏫 Education
 
 ## Ph.D. in Computer Science (Interrupted) 
-Recommender Systems (2017-2020)
+Recommender Systems (2017-2020) 
+
 Federal University of Campina Grande (UFCG)
 
 ## M.Sc. in Computer Science 
 Computer Vision \& Deep Learning (2014-2016)
+
 Federal University of Campina Grande (UFCG)
 
 ## Technologist Degree in Telematics 
 Digital Video Processing (2010-2013)
+
 Federal Institute of Education, Science and Technology of Paraíba (IFPB)
 
 ---
