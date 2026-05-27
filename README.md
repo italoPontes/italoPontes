@@ -140,7 +140,19 @@ Federal Institute of Education, Science and Technology of Paraíba (IFPB)
 * **Recommendation Systems**: Matrix Factorization, LightFM (Factorization Machines), Transformers4Rec.
 * **Interpretability**: SHAP, LIME, What-if.
 
+---
+
 # 🧠 Selected Projects
+
+## Image Steganography Platform
+* Developed a web-based steganography platform for hiding and extracting secret messages inside digital
+images.
+* [steganography.streamlit.app](steganography.streamlit.app)
+
+## Financial Fraud Detection
+* Developed a Machine Learning pipeline for fraudulent financial transaction detection, achieving a Top 70
+(<3.5%) ranking among more than 2,000 submissions in a Zindi Challenge competition.
+* [github.com/fernandojunior/financial-fraud-detection](github.com/fernandojunior/financial-fraud-detection)
 
 ## Financial Fraud Detection
 
@@ -194,38 +206,6 @@ I write technical articles about:
 ### Platforms
 
 * Substack
-
----
-
-# 🛠️ Technical Skills
-
-## Languages
-
-Python, SQL, Shell Script, C/C++
-
-## Machine Learning & AI
-
-Scikit-Learn, TensorFlow, CatBoost, PyOD, GenAI/LLMs
-
-## Data Engineering
-
-PySpark, Pandas, NumPy, SciPy
-
-## NLP & Recommendation Systems
-
-NLTK, Gensim, Word2Vec, LightFM, Transformers4Rec
-
-## Computer Vision
-
-OpenCV, YOLO, Caffe
-
-## Visualization
-
-Plotly, Streamlit, Matplotlib, Seaborn
-
-## Tools
-
-Git, Docker, Jupyter Notebook, Linux, LaTeX
 
 ---
 
