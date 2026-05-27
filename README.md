@@ -15,10 +15,10 @@ I am communicative and enthusiastic about knowledge sharing. In addition to publ
 ## 📫 Contact
 
 * Email: [italodepontesoliveira93@gmail.com](mailto:italodepontesoliveira93@gmail.com)
-* LinkedIn: linkedin.com/in/italo-de-pontes
-* GitHub: github.com/italopontes
-* Substack: https://substack.com/@italodeponte
-* Google Scholar: scholar.google.com/citations?user=3R5wdZIAAAAJ
+* LinkedIn: [linkedin.com/in/italo-de-pontes](linkedin.com/in/italo-de-pontes)
+* GitHub: [https://github.com/italoPontes/italoPontes](github.com/italopontes)
+* Substack: [https://substack.com/@italodepontes](https://substack.com/@italodepontes)
+* Google Scholar: [https://scholar.google.com/citations?user=3R5wdZIAAAAJ](https://scholar.google.com/citations?user=3R5wdZIAAAAJ)
 
 ---
 
