@@ -2,13 +2,20 @@
 
 ## Artificial Intelligence Engineer
 
-Artificial Intelligence Engineer with experience developing end-to-end solutions following the **CRISP-DM methodology**, working from requirements gathering and communication with multidisciplinary teams to data collection, processing, and modeling using SQL and Python.
+**Artificial Intelligence Engineer** with experience developing end-to-end solutions following the CRISP-DM methodology,
+working from requirements gathering and communication with multidisciplinary teams to data collection,
+processing, and modeling using SQL and Python.
 
-Experienced in **Data Science**, performing exploratory data analysis, data visualization, dashboard creation, predictive analytics, and the development of customized Machine Learning solutions focused on cost reduction, churn prevention, fraud detection, and data-driven decision-making.
+Experienced in **Data Science**, performing exploratory data analysis, data visualization, dashboard creation, predictive
+analytics, and the development of customized Machine Learning solutions focused on cost reduction,
+churn prevention, fraud detection, and data-driven decision-making.
 
-My academic background, combined with experience in Research and Development (R&D) projects, provided me with strong analytical skills, structured logical thinking, and the ability to deeply investigate complex problems involving Artificial Intelligence, GenAI/LLMs, NLP, Recommendation Systems, and Computer Vision.
+My **academic background**, combined with experience in Research and Development (R&D) projects, provided
+me with strong analytical skills, structured logical thinking, and the ability to deeply investigate complex problems
+involving Artificial Intelligence, GenAI/LLM, NLP, Recommendation Systems, and Computer Vision.
 
-I am communicative and enthusiastic about knowledge sharing. In addition to published scientific papers, I have participated in podcasts, interviews, and produce AI-related technical content on Medium and Substack.
+I am communicative and enthusiastic about **knowledge sharing**. In addition to published scientific papers,
+I have participated in podcasts, interviews, and produce AI-related technical content on Medium.
 
 ---
 
