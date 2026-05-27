@@ -17,8 +17,7 @@ I am communicative and enthusiastic about knowledge sharing. In addition to publ
 * Email: [italodepontesoliveira93@gmail.com](mailto:italodepontesoliveira93@gmail.com)
 * LinkedIn: linkedin.com/in/italo-de-pontes
 * GitHub: github.com/italopontes
-* Medium: medium.com/@talodepontesoliveira
-* Substack: open.substack.com/pub/italodepontes
+* Substack: https://substack.com/@italodeponte
 * Google Scholar: scholar.google.com/citations?user=3R5wdZIAAAAJ
 
 ---
