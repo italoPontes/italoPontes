@@ -104,7 +104,7 @@ Python, Streamlit, OpenCV, NumPy
 * Computer Vision & Deep Learning research publications
 * Patent registered at INPI (SQUALES)
 
-📎 Full publication list available on Google Scholar.
+📎 Full publication list available on [https://scholar.google.com/citations?user=3R5wdZIAAAAJ](Google Scholar).
 
 ---
 
@@ -122,7 +122,6 @@ I write technical articles about:
 
 ### Platforms
 
-* Medium
 * Substack
 
 ---
