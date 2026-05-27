@@ -65,30 +65,74 @@ and **customer-related issues**.
 
 ## Machine Learning Engineer — Siemens Healthineers / UEPB R&D Project (2022 – 2023)
 
-* Developed Machine Learning solutions for automated churn prediction in B2B medical equipment maintenance contracts, addressing a critical business challenge where contract cancellations were previously identified too late for effective intervention.
-* Built hybrid recommendation approaches combining Content-Based and Collaborative Filtering techniques to identify contracts with high churn propensity, achieving a 41% recall rate for contracts that resulted in churn within the following 3 months.
-* Implemented daily predictive pipelines and interactive dashboards with feature explainability capabilities, enabling business teams to understand the main factors driving churn and proactively define retention strategies.
-* Supported proactive customer retention initiatives through data-driven insights, contributing to a 23% increase in conversion rates among contracts targeted for retention actions.
+* Developed churn prediction models for B2B medical equipment maintenance contracts, performing feature
+engineering, exploratory analysis, and correlation studies using operational, financial, and contractual
+variables, while building daily predictive pipelines for customer retention monitoring.
+* Enabled early identification of contracts with **high churn propensity** up to three months in advance, achieving
+approximately **35% predictive precision** and generating a **return on investment** that paid back the
+project in less than one year.
 
 ---
 
 ## Natural Language Processing Engineer — Dell / UFCG R&D Project (2019 – 2022)
 
-* Developed NLP solutions for automated customer support email responses in a large-scale enterprise environment handling more than 1 million emails per month.
-* Built hierarchical classification and recommendation systems for automatic support request categorization and response template ranking.
-* Implemented sensitive data anonymization pipelines for privacy protection, increasing security against internal data leakage by customer support operators.
-* Improved operator productivity and reduced SLA response time by approximately 10% through intelligent automation, without negatively impacting customer satisfaction metrics.
+• Developed NLP solutions for automated customer support email responses in a large-scale enterprise environment
+handling **more than 1 million emails per month**.
+• Built hierarchical classification and recommendation systems for automatic support request categorization
+and response template ranking.
+• Improved operator productivity and **reduced SLA response time** through intelligent automation, **without
+negatively impacting** customer satisfaction metrics.
+• Implemented sensitive data anonymization pipelines for privacy protection, increasing security against **internal
+data leakage** by customer support operators.
 
 ---
 
 ## Computer Vision Engineer — HP / UFCG Research Project (2015 – 2016)
 
-* Developed Computer Vision and Deep Learning solutions for 3D image indexing and retrieval as part of the HP Sprout ecosystem, aiming to enhance brand exposure and improve user experience through intelligent object recognition services.
+* Developed Computer Vision and Deep Learning solutions for 3D image as part of the HP Sprout ecosystem,
+aiming to **enhance brand exposure** and improve user experience through intelligent object recognition
+services.
+* Developed age and gender estimation models using convolutional neural networks and a proprietary Data
+Augmentation methodology proposed during my master’s research, **achieving superior performance in
+7%** compared to Google Inception v3, considered state-of-the-art at the time.
 * Improved facial detection accuracy using skin detection post-processing techniques.
-* Developed age and gender estimation models using convolutional neural networks and a proprietary Data Augmentation methodology proposed during my master's research, achieving superior performance compared to Google Inception v3, considered state-of-the-art at the time.
-* Worked with object recognition pipelines using OpenCV, Caffe, and Google Inception v3.
 
 ---
+
+## Software Engineer Research Assistant — IFPB Research Project (2011-2012)
+
+* Contributed to software engineering research focused on UML and model-driven development by expanding
+ATL Analyzer functionalities and developing Java-based structures for automated Ecore metamodel
+transformations.
+* Improved the scalability and operational efficiency of model transformation workflows, **reducing processing
+complexity** from **exponential**-like growth behavior to a **linear**.
+
+---
+
+# 🏫 Education
+
+## Ph.D. in Computer Science (Interrupted) — Recommender Systems (2017-2020)
+Federal University of Campina Grande (UFCG)
+
+## M.Sc. in Computer Science — Computer Vision \& Deep Learning (2014-2016)
+Federal University of Campina Grande (UFCG)
+
+## Technologist Degree in Telematics — Digital Video Processing (2010-2013)
+Federal Institute of Education, Science and Technology of Paraíba (IFPB)
+
+---
+
+# 🛠️ Technical Skills
+
+* **Languages**: Python, SQL, Shell Script, C/C++.
+* **GenAI**: LLMs, Embeddings, Vector Search, Prompt Engineering, RAG.
+* **Machine Learning**: Scikit-Learn, CatBoost, TensorFlow/Keras, PyOD.
+* **Data Engineering**: PySpark, Pandas, Numpy, SciPy, Imbalance-learn.
+* **Computer Vision**: OpenCV, YOLO, Caffe, Scikit-Image.
+* **Visualization \& Analytics**: Seaborn, Streamlit, Plotly, Matplotlib, Ydata-profiling, Missingno.
+* **NLP**: HuggingFaces, NLTK, Gensim, Microsoft Presidio, Regex.
+* **Recommendation Systems**: Matrix Factorization, LightFM (Factorization Machines), Transformers4Rec.
+* **Interpretability**: SHAP, LIME, What-if.
 
 # 🧠 Selected Projects
 
@@ -186,17 +230,3 @@ Git, Docker, Jupyter Notebook, Linux, LaTeX
 * Student Member of the Brazilian Telecommunications Society (SBrT)
 * Podcast participant discussing AI, Data Science, and innovation
 * Technical content creator focused on simplifying complex AI topics
-
----
-
-# 📈 Areas of Interest
-
-* Applied Artificial Intelligence
-* Fraud Detection
-* Recommendation Systems
-* NLP & LLMs
-* Computer Vision
-* Industrial AI
-* Predictive Analytics
-* Explainable AI
-* AI for Manufacturing
