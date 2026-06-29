@@ -23,7 +23,7 @@ I have participated in podcasts, interviews, and produce AI-related technical co
 
 * Email: [italodepontesoliveira93@gmail.com](mailto:italodepontesoliveira93@gmail.com)
 * LinkedIn: [linkedin.com/in/italo-de-pontes](linkedin.com/in/italo-de-pontes)
-* GitHub: [https://github.com/italoPontes/italoPontes](github.com/italopontes)
+* GitHub: [https://github.com/italoPontes](github.com/italopontes)
 * Substack: [https://substack.com/@italodepontes](https://substack.com/@italodepontes)
 * Google Scholar: [https://scholar.google.com/citations?user=3R5wdZIAAAAJ](https://scholar.google.com/citations?user=3R5wdZIAAAAJ)
 
